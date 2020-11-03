@@ -1,4 +1,4 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=danimal141&count_private=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=danimal141&count_private=true&hide=contribs)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=danimal141&layout=compact)
 
 <!--
