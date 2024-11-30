@@ -1,5 +1,5 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=danimal141&include_all_commits=true&theme=cobalt)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=danimal141&include_all_commits&layout=compact&&size_weight=0.5&count_weight=0.5&theme=cobalt)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=danimal141&include_all_commits&layout=compact&size_weight=0.5&count_weight=0.5&theme=cobalt)
 
 <!--
 **danimal141/danimal141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
